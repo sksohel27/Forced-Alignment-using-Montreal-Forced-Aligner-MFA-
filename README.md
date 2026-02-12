@@ -211,12 +211,9 @@ textgrids/augmented/
 
 ## Report
 
-Detailed analysis, before/after comparison, Praat screenshots, theoretical discussion, and conclusions are available in:
-
-📄 **Assignment_1_Report_Forced_Alignment_Using_MFA_with_Robust_OOV_Handling.pdf**
-
-**Key Takeaway:**
 Lexicon augmentation is powerful but requires **phone set consistency** between the acoustic model, dictionary, and G2P to effectively resolve OOVs.
+
+For detailed analysis of the whole project you can contact me one below email ID: sksohelofficial27@gmail.com
 
 ---
 
